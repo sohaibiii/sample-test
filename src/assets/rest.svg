@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 77 68" width="77" height="68">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-531 -366L594 -366L594 2426L-531 2426Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #45c5b0 } 
+	</style>
+	<g id="iPhone X, XS, 11 Pro – 1" clip-path="url(#cp1)">
+		<g id="Group 182">
+			<g id="Group 180">
+				<g id="Group 175">
+					<g id="rest">
+						<path id="Ellipse 6" class="shp0" d="M7.1 40.6C3.35 40.6 0.32 37.57 0.32 33.82C0.32 30.07 3.35 27.04 7.1 27.04C10.85 27.04 13.88 30.07 13.88 33.82C13.88 37.57 10.85 40.6 7.1 40.6Z" />
+						<path id="Path 119" class="shp0" d="M0.13 44.95L76.06 44.95L76.06 53.84L0.13 53.84L0.13 44.95Z" />
+						<path id="Path 120" class="shp0" d="M64.93 27.15L24.6 27.15C18.47 27.15 13.48 32.14 13.48 38.27L13.48 40.5L76.06 40.5L76.06 38.27C76.06 32.14 71.07 27.15 64.93 27.15Z" />
+						<path id="Path 121" class="shp0" d="M0.13 67.19L4.58 67.19L4.58 62.74L71.61 62.74L71.61 67.19L76.06 67.19L76.06 58.29L0.13 58.29L0.13 67.19Z" />
+						<path id="Path 122" class="shp0" d="M36.72 13.8L49.22 13.8L49.22 9.36L43.92 9.36L48.37 0.46L35.87 0.46L35.87 4.91L41.17 4.91L36.72 13.8Z" />
+						<path id="Path 123" class="shp0" d="M18.93 22.7L31.42 22.7L31.42 18.25L26.12 18.25L30.57 9.36L18.08 9.36L18.08 13.8L23.37 13.8L18.93 22.7Z" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

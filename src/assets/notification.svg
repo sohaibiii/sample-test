@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 71 71" width="71" height="71">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-986 -2568L139 -2568L139 224L-986 224Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #bebfc2 } 
+	</style>
+	<g id="iPhone X, XS, 11 Pro – 1" clip-path="url(#cp1)">
+		<g id="Footer">
+			<g id="Group 185">
+				<g id="notification">
+					<g id="calendar">
+						<path id="Path 136" class="shp0" d="M52.9 15.24C55.6 15.24 57.78 13.08 57.78 10.38L57.78 5.28C57.78 2.58 55.6 0.41 52.9 0.41C50.21 0.41 48.03 2.58 48.03 5.28L48.03 10.38C48.03 13.08 50.21 15.24 52.9 15.24Z" />
+						<path id="Path 137" fill-rule="evenodd" class="shp0" d="M70.31 70.7L65.36 70.72L1 70.72L1 8.72L10.91 8.84L10.91 11.32C10.91 15.42 14.23 18.75 18.33 18.75C22.43 18.75 25.76 15.41 25.76 11.32L25.76 8.84L45.57 8.84L45.57 11.32C45.57 15.41 48.88 18.75 52.99 18.75C57.09 18.75 60.41 15.41 60.41 11.32L60.41 8.84L70.23 8.84L70.31 70.7ZM65.36 65.78L65.36 26.17L5.95 26.17L5.95 65.78L65.36 65.78Z" />
+						<path id="Path 138" class="shp0" d="M18.25 15.24C20.95 15.24 23.13 13.08 23.13 10.38L23.13 5.28C23.13 2.58 20.95 0.41 18.25 0.41C15.56 0.41 13.38 2.58 13.38 5.28L13.38 10.38C13.38 13.08 15.56 15.24 18.25 15.24Z" />
+						<path id="Rectangle 13" class="shp0" d="M25.77 31.49L33.57 31.49L33.57 38.37L25.77 38.37L25.77 31.49Z" />
+						<path id="Rectangle 14" class="shp0" d="M38.38 31.49L46.19 31.49L46.19 38.37L38.38 38.37L38.38 31.49Z" />
+						<path id="Rectangle 15" class="shp0" d="M50.08 31.49L57.88 31.49L57.88 38.37L50.08 38.37L50.08 31.49Z" />
+						<path id="Rectangle 16" class="shp0" d="M25.77 42.92L33.57 42.92L33.57 49.8L25.77 49.8L25.77 42.92Z" />
+						<path id="Rectangle 17" class="shp0" d="M38.38 42.92L46.19 42.92L46.19 49.8L38.38 49.8L38.38 42.92Z" />
+						<path id="Rectangle 18" class="shp0" d="M50.08 42.92L57.88 42.92L57.88 49.8L50.08 49.8L50.08 42.92Z" />
+						<path id="Rectangle 19" class="shp0" d="M25.77 54.58L33.57 54.58L33.57 61.46L25.77 61.46L25.77 54.58Z" />
+						<path id="Rectangle 20" class="shp0" d="M13.38 42.92L21.18 42.92L21.18 49.8L13.38 49.8L13.38 42.92Z" />
+						<path id="Rectangle 21" class="shp0" d="M13.38 54.58L21.18 54.58L21.18 61.46L13.38 61.46L13.38 54.58Z" />
+						<path id="Rectangle 22" class="shp0" d="M38.38 54.58L46.19 54.58L46.19 61.46L38.38 61.46L38.38 54.58Z" />
+						<path id="Rectangle 23" class="shp0" d="M50.08 54.58L57.88 54.58L57.88 61.46L50.08 61.46L50.08 54.58Z" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

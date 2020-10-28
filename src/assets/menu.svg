@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 76 54" width="76" height="54">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-87 -178L1038 -178L1038 2614L-87 2614Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="iPhone X, XS, 11 Pro – 1" clip-path="url(#cp1)">
+		<g id="Symtoms Tracker">
+			<g id="Group 157">
+				<path id="Rectangle 10" class="shp0" d="M5 0L56 0C58.76 0 61 2.23 61 5L61 5C61 7.76 58.76 10 56 10L5 10C2.23 10 0 7.76 0 5L0 5C0 2.23 2.23 0 5 0Z" />
+				<path id="Path 116" class="shp0" d="M20 22L71 22C73.76 22 76 24.24 76 27C76 29.76 73.76 32 71 32L20 32C17.24 32 15 29.76 15 27C15 24.24 17.24 22 20 22Z" />
+				<path id="Rectangle 12" class="shp0" d="M5 44L56 44C58.76 44 61 46.23 61 49L61 49C61 51.76 58.76 54 56 54L5 54C2.23 54 0 51.76 0 49L0 49C0 46.23 2.23 44 5 44Z" />
+			</g>
+		</g>
+	</g>
+</svg>

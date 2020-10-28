@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63 65" width="63" height="65">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-736 -367L389 -367L389 2425L-736 2425Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #45b0e5 } 
+	</style>
+	<g id="iPhone X, XS, 11 Pro – 1" clip-path="url(#cp1)">
+		<g id="Group 182">
+			<g id="Group 178">
+				<g id="Group 173">
+					<g id="sleep">
+						<g id="Group 165">
+							<g id="Group 164">
+								<path id="Path 126" class="shp0" d="M43.82 48.47C31.42 48.47 21.37 38.42 21.37 26.02C21.37 18.27 25.3 11.44 31.27 7.4C30.57 7.35 29.88 7.33 29.17 7.33C13.42 7.33 0.66 20.09 0.66 35.84C0.66 51.59 13.42 64.35 29.17 64.35C41.83 64.35 52.56 56.11 56.28 44.69C52.72 47.08 48.43 48.47 43.82 48.47Z" />
+							</g>
+						</g>
+						<g id="Group 167">
+							<g id="Group 166">
+								<path id="Path 127" class="shp0" d="M54.28 12.16L61.27 0.43L48.48 0.43L48.48 4.17L54.68 4.17L47.69 15.91L62.08 15.91L62.08 12.16L54.28 12.16Z" />
+							</g>
+						</g>
+						<g id="Group 169">
+							<g id="Group 168">
+								<path id="Path 128" class="shp0" d="M43.57 14.69L32.01 14.69L32.01 18.44L36.98 18.44L31.59 27.5L43.45 27.5L43.45 23.75L38.18 23.75L43.57 14.69Z" />
+							</g>
+						</g>
+						<g id="Group 171">
+							<g id="Group 170">
+								<path id="Path 129" class="shp0" d="M50.54 35.98L53.96 30.25L44.29 30.25L44.29 33.99L47.37 33.99L43.95 39.73L54.1 39.73L54.1 35.98L50.54 35.98Z" />
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

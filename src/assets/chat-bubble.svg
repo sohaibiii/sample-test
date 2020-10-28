@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 69 69" width="69" height="69">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-936 -363L189 -363L189 2429L-936 2429Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ff71b7 } 
+	</style>
+	<g id="iPhone X, XS, 11 Pro – 1" clip-path="url(#cp1)">
+		<g id="Group 182">
+			<g id="Group 177">
+				<g id="Group 172">
+					<g id="chat-bubble">
+						<path id="Path 131" fill-rule="evenodd" class="shp0" d="M68.17 34.28C68.17 52.92 53.07 68.02 34.44 68.02L0.71 68.02L9.22 56.68C3.93 50.72 0.71 42.87 0.71 34.28C0.71 14.52 17.61 -1.09 37.47 0.66C54.75 2.2 68.17 16.73 68.17 34.28ZM16.05 31.21L34.44 31.21L34.44 25.08L16.05 25.08L16.05 31.21ZM52.84 37.35L16.05 37.35L16.05 43.49L52.84 43.49L52.84 37.35Z" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
