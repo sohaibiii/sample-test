@@ -13,14 +13,14 @@ const styles = StyleSheet.create({
     bottom: 0,
     paddingTop: 5,
     height: 90,
-    shadowColor: '#00000029',
+    shadowColor: '#000',
     shadowOffset: {
       width: 0,
-      height: 2,
+      height: 5,
     },
-    shadowOpacity: 0.25,
-    shadowRadius: 3.84,
-    elevation: 5,
+    shadowOpacity: 0.36,
+    shadowRadius: 6.68,
+    elevation: 11,
   },
 });
 
